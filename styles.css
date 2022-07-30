@@ -1,0 +1,50 @@
+i {
+    cursor: pointer;
+}
+
+.logo_img {
+    width: 150px;
+    height: 50px;
+    object-fit: cover;
+}
+
+.hero_image{
+    text-align: center;
+}
+
+.container_hero_image{
+    width: 98vw;
+    max-height: 75vh;
+    object-fit: cover;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.foto_perfil {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50px;
+    margin-top: -80px;
+    margin-left: 5px;
+    z-index: 1;
+}
+
+.nombre {
+    margin-top: 80px;
+}
+
+.logo_unefa {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+}
+
+.skills {
+    text-align: center;
+}
+
+.proyecto_argentina {
+    color: #000;
+}
